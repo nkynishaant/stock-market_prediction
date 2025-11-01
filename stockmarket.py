@@ -11,8 +11,6 @@ st.title("S&P 500 Tomorrow's Trend Predictor 📈")
 st.markdown("A Machine Learning model to predict if the S&P 500 index (^GSPC) will go up (1) or down/stay flat (0) tomorrow.")
 
 # --- Data Loading and Preprocessing (Adapted from Notebook) ---
-
-@st.cache_data
 def load_data():
     """Loads historical S&P 500 data from Yahoo Finance or local CSV."""
     
