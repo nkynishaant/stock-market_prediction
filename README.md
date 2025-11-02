@@ -11,10 +11,10 @@ Build a backtesting engine to more accurately measure accuracy
 Improve the accuracy of the model
 Code
 # libraries used 
-###1.pandas
-###2.sciket-learn
-###3.yfinance
-###4.stramlit
+##1.pandas
+##2.sciket-learn
+##3.yfinance
+##4.streamlit
 
 
 
