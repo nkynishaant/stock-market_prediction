@@ -15,7 +15,8 @@ Code
 <li>.sciket-learn
 <li>.yfinance
 <li>.streamlit
-# Algorithm used
+
+  # Algorithm used
 <li>Random Forest
 
 
