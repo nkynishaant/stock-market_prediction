@@ -12,7 +12,7 @@ Improve the accuracy of the model
 Code
 # libraries used 
 <li>.pandas
-<li>.sciket-learn
+<li>.scikit-learn
 <li>.yfinance
 <li>.streamlit
 
